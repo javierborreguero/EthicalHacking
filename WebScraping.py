@@ -26,3 +26,4 @@ try:
         print(f"\n{Fore.RESET}[{Fore.GREEN}>{Fore.RESET}]" + f" {Fore.GREEN}Completado!{Fore.RESET}")
 except Exception as e:
     print(e)
+    
